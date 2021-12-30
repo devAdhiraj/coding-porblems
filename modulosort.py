@@ -1,0 +1,5 @@
+input()
+c = int(input())
+a = sorted((map(int, input().split())))
+a.sort(key= lambda x: x%c)
+print(*a)

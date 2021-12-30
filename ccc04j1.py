@@ -1,0 +1,1 @@
+print("The largest square has side length {}.".format(int(int(input())**0.5)))
