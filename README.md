@@ -2,7 +2,7 @@
 
 Each file in this repository contains the solution to a coding problem.
 The file name is the problem name, and all of these problems are from 
-[dmoj.ca](dmoj.ca).
+[DMOJ](https://dmoj.ca/problems/).
 You can visit the website and search for the problem name to see the problem
 description. 
 
